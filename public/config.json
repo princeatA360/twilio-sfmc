@@ -30,9 +30,9 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "77cdc808-c4c3-42a1-a8a6-e54a5dd95612",
+      "applicationExtensionKey": "747bd30a-a09a-45a6-b831-7d78e6897a56",
        "save": {
-           "url": "https://twilio-sfmc.herokuapp.com/save",
+           "url": "https://twiliocustomsms.herokuapp.com/save",
             "verb": "POST",
             "body": "",
             "format": "json",
